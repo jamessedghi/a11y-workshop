@@ -1,9 +1,8 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
-import { AccordionGroup } from '../components/accordion/accordion-group';
+import styles from '../../styles/Home.module.css'
+import { AccordionGroup } from '../../components/accordion/accordion-group';
 
-export default function Home() {
+export default function AccordionPage() {
   return (
     <div className={styles.container}>
       <Head>
