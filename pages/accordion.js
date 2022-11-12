@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Accordion exercise</title>
-        <meta name="description" content="Accordion Exercise for accessibility" />
+        <meta name="description" content="Accordion exercise for accessibility" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
